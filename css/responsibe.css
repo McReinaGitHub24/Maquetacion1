@@ -142,7 +142,7 @@
     }
 }
 
-@media (max-width:724px) {
+@media (max-width: 724px) {
     #header{
         width: 100%;
         height: 120px;
@@ -213,6 +213,13 @@
     }
     
 }
+
+@media (max-width: 570px) {
+    .card{
+        margin: 1%;       
+    }
+}
+
 
 @media (max-width: 475px) {
     #logo{
